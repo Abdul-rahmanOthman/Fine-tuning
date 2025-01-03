@@ -1,0 +1,527 @@
+{"dialogue": ["User: I have cough and runny nose.", "Model: Have you been sneeze?", "User: No", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and wheezing and Restlessness.", "Model: Have you been Pulmonary crackles?", "User: No", "Model: Have you been cough?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and expectoration and runny nose.", "Model: Have you been lethargy?", "User: No", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and Herpes.", "Model: Have you been rash?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have abdominal bloating and runny nose and Vomit.", "Model: Have you been Pharynx Discomfort?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and Diarrhea and lethargy.", "Model: Have you been Oliguria?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and anorexia and lethargy and Diarrhea and Restlessness.", "Model: Have you been Egg Drop-like Stool?", "User: Yes", "Model: Have you been Vomit?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and Herpes.", "Model: Have you been nausea?", "User: Yes", "Model: Have you been lethargy?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have sneeze and nasal congestion and Difficulty breathing.", "Model: Have you been Convulsions?", "User: Yes", "Model: Have you been cough?", "User: No", "Model: Have you been runny nose?", "User: No"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have Night sweats and cough and Herpes.", "Model: Have you been Rubbing eyes?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Diarrhea and fever and cough.", "Model: Have you been lung shadows?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have sneeze and Difficulty breathing and Restlessness.", "Model: Have you been Diarrhea?", "User: Yes", "Model: Have you been Vomit?", "User: Yes", "Model: Have you been green stool?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and cough and sneeze and runny nose.", "Model: Have you been lethargy?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been Pharynx Discomfort?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have runny nose and rash.", "Model: Have you been nasal congestion?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have Convulsions and cough and Rubbing eyes and rub nose and rash."], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and Herpes and Restlessness.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and Herpes and rash.", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough and nasal congestion and runny nose and expectoration."], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have nasal congestion and Difficulty breathing.", "Model: Have you been rash?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and Herpes.", "Model: Have you been rash?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have runny nose.", "Model: Have you been nasal congestion?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have cough and expectoration and runny nose.", "Model: Have you been fever?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and Vomit and Restlessness.", "Model: Have you been expectoration?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and cough and nasal congestion and runny nose."], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and Diarrhea.", "Model: Have you been lethargy?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have Egg Drop-like Stool and lethargy and Vomit.", "Model: Have you been Diarrhea?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have green stool.", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough and nasal congestion and Difficulty breathing and runny nose.", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and lethargy and rash.", "Model: Have you been Convulsions?", "User: No", "Model: Have you been Vomit?", "User: No", "Model: Have you been Drooling?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and Restlessness.", "Model: Have you been nasal congestion?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and nasal congestion and runny nose.", "Model: Have you been fever?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Diarrhea and anorexia and sneeze and Vomit and runny nose.", "Model: Have you been lethargy?", "User: No", "Model: Have you been Oliguria?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have nasal congestion and Pharynx Discomfort and mouth bubblings and expectoration and cough and Restlessness.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been nausea?", "User: Yes", "Model: Have you been Vomit?", "User: Yes", "Model: Have you been Pulmonary crackles?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have nasal congestion and rash.", "Model: Have you been Rubbing eyes?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and cough and stomach ache and runny nose.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been lethargy?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and cough and expectoration and runny nose."], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and nasal congestion and runny nose and expectoration.", "Model: Have you been Diarrhea?", "User: Yes", "Model: Have you been Vomit?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and Diarrhea and Vomit."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough and sneeze and runny nose.", "Model: Have you been nasal congestion?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and Vomit and expectoration.", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have cough and expectoration and Vomit and nasal congestion.", "Model: Have you been mouth bubblings?", "User: Yes", "Model: Have you been runny nose?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Convulsions and sneeze and nosebleed and rub nose.", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have Egg Drop-like Stool and Diarrhea and green stool and weight loss.", "Model: Have you been fever?", "User: No", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been lethargy?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and Herpes and rash.", "Model: Have you been lethargy?", "User: No", "Model: Have you been expectoration?", "User: Yes", "Model: Have you been cough?", "User: Yes", "Model: Have you been runny nose?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and cough.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been lethargy?", "User: No", "Model: Have you been Vomit?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and Diarrhea and Vomit and Restlessness.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been Oliguria?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have runny nose and rub nose and sneeze and rash and allergy.", "Model: Have you been Convulsions?", "User: Yes", "Model: Have you been nasal congestion?", "User: Yes", "Model: Have you been nosebleed?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and lethargy and anorexia and cough and stomach ache and runny nose.", "Model: Have you been Pulmonary crackles?", "User: No"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and Diarrhea and Vomit."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have Herpes.", "Model: Have you been lethargy?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and Herpes and rash.", "Model: Have you been cough?", "User: No", "Model: Have you been runny nose?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and Vomit and Herpes and rash.", "Model: Have you been anorexia?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough and runny nose.", "Model: Have you been Vomit?", "User: No", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and runny nose and Drooling and cough and Herpes and rash.", "Model: Have you been lethargy?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and anorexia and Restlessness and rash.", "Model: Have you been lethargy?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough and runny nose.", "Model: Have you been expectoration?", "User: No", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have runny nose.", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been Drooling?", "User: Yes", "Model: Have you been rash?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and cough and Restlessness.", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have runny nose and Difficulty breathing.", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have wheezing and expectoration.", "Model: Have you been rub nose?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and cough.", "Model: Have you been rash?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have Diarrhea and Night sweats and cough and green stool.", "Model: Have you been Vomit?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have nasal congestion and expectoration.", "Model: Have you been fever?", "User: No", "Model: Have you been cough?", "User: No", "Model: Have you been rash?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have nasal congestion and rub nose.", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and cough and nasal congestion."], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and anorexia and cough and runny nose.", "Model: Have you been wheezing?", "User: Yes", "Model: Have you been expectoration?", "User: Yes", "Model: Have you been lung shadows?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and Vomit and stomach ache and Headache.", "Model: Have you been lethargy?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have Diarrhea and Vomit.", "Model: Have you been fever?", "User: Yes", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been lethargy?", "User: Yes", "Model: Have you been green stool?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and Restlessness and rash.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been lethargy?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have Diarrhea and Vomit.", "Model: Have you been lethargy?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and anorexia and Vomit and Diarrhea and Restlessness.", "Model: Have you been lethargy?", "User: No", "Model: Have you been cough?", "User: No", "Model: Have you been runny nose?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and cough and runny nose and lung shadows."], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Herpes and rash."], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have runny nose and Rubbing eyes.", "Model: Have you been cough?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and cough.", "Model: Have you been runny nose?", "User: Yes", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have cough and expectoration and sneeze and runny nose.", "Model: Have you been fever?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and Herpes.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and lethargy and rash.", "Model: Have you been Pulmonary crackles?", "User: Yes", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have sneeze and runny nose.", "Model: Have you been allergy?", "User: Yes", "Model: Have you been rash?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have sneeze and runny nose and rash.", "Model: Have you been Convulsions?", "User: Yes", "Model: Have you been cough?", "User: Yes", "Model: Have you been nasal congestion?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have Egg Drop-like Stool and nausea and Restlessness and rash and abdominal bloating.", "Model: Have you been lethargy?", "User: No", "Model: Have you been allergy?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and expectoration.", "Model: Have you been lethargy?", "User: No", "Model: Have you been runny nose?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and Herpes and rash and Drooling.", "Model: Have you been cough?", "User: Yes", "Model: Have you been Vomit?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have Night sweats and Vomit and Oliguria and Restlessness and abdominal bloating.", "Model: Have you been Diarrhea?", "User: Yes", "Model: Have you been anorexia?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have Diarrhea.", "Model: Have you been anorexia?", "User: No", "Model: Have you been lethargy?", "User: No", "Model: Have you been Oliguria?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough and sneeze and mouth bubblings.", "Model: Have you been fever?", "User: No", "Model: Have you been runny nose?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and nausea and cough and mouth bubblings.", "Model: Have you been runny nose?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and expectoration and sneeze and runny nose.", "Model: Have you been Pulmonary crackles?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have cough and expectoration and Difficulty breathing and mouth bubblings."], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and cough and expectoration and runny nose.", "Model: Have you been Night sweats?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have runny nose and nosebleed and allergy."], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and runny nose.", "Model: Have you been lethargy?", "User: No", "Model: Have you been cough?", "User: No", "Model: Have you been Headache?", "User: No", "Model: Have you been lung shadows?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have cough and nasal congestion and runny nose.", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and Vomit and Herpes and rash.", "Model: Have you been Convulsions?", "User: Yes", "Model: Have you been lethargy?", "User: No", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and wheezing and cough and runny nose.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been lethargy?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Diarrhea and mouth bubblings and Vomit and Restlessness and expectoration.", "Model: Have you been Convulsions?", "User: Yes", "Model: Have you been Pharynx Discomfort?", "User: Yes", "Model: Have you been lung shadows?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have cough and rub nose and runny nose.", "Model: Have you been Pharynx Discomfort?", "User: Yes", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have nausea and runny nose and expectoration and Convulsions and nasal congestion.", "Model: Have you been Rubbing eyes?", "User: Yes", "Model: Have you been rub nose?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have rash.", "Model: Have you been fever?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have runny nose and nasal congestion and rash.", "Model: Have you been Night sweats?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have Diarrhea and Flatulence.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been Oliguria?", "User: Yes", "Model: Have you been Vomit?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and Diarrhea and runny nose and Rubbing eyes.", "Model: Have you been nasal congestion?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and Diarrhea and Vomit.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been Oliguria?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and Diarrhea and Herpes.", "Model: Have you been Convulsions?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough and sneeze and runny nose.", "Model: Have you been nasal congestion?", "User: Yes", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and runny nose and rash.", "Model: Have you been fever?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have runny nose and rash.", "Model: Have you been nasal congestion?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and Vomit and Stomach rumbling and Egg Drop-like Stool and Restlessness and weight loss.", "Model: Have you been anorexia?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have anorexia and cough and Vomit and runny nose.", "Model: Have you been expectoration?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Egg Drop-like Stool and Diarrhea and green stool.", "Model: Have you been Hiccups?", "User: Yes", "Model: Have you been Oliguria?", "User: Yes", "Model: Have you been lethargy?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and cough.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been expectoration?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: No", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have cough.", "Model: Have you been runny nose?", "User: Yes", "Model: Have you been nasal congestion?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have cough and Vomit and sneeze and Restlessness.", "Model: Have you been fever?", "User: Yes", "Model: Have you been lethargy?", "User: Yes", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and Difficulty breathing and Pharynx Discomfort.", "Model: Have you been expectoration?", "User: No", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and cough and runny nose.", "Model: Have you been lethargy?", "User: No", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been Pharynx Discomfort?", "User: No"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and cough.", "Model: Have you been lung shadows?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have wheezing and rub nose and allergy and rash and Convulsions.", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have Diarrhea.", "Model: Have you been fever?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough and Vomit and expectoration."], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and Herpes and rash.", "Model: Have you been runny nose?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and Herpes and rash.", "Model: Have you been anorexia?", "User: No", "Model: Have you been lethargy?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough and allergy.", "Model: Have you been Convulsions?", "User: Yes", "Model: Have you been rub nose?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have Diarrhea and fever and green stool.", "Model: Have you been nausea?", "User: Yes", "Model: Have you been cough?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough and Vomit and runny nose.", "Model: Have you been sneeze?", "User: Yes", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have runny nose and nasal congestion and allergy and rash.", "Model: Have you been fever?", "User: No"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and cough and expectoration and runny nose.", "Model: Have you been lethargy?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and cough and Difficulty breathing.", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and Herpes and rash.", "Model: Have you been lethargy?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough and runny nose.", "Model: Have you been fever?", "User: No", "Model: Have you been anorexia?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and nasal congestion and expectoration.", "Model: Have you been lethargy?", "User: No", "Model: Have you been runny nose?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and Vomit and Herpes.", "Model: Have you been anorexia?", "User: No", "Model: Have you been lethargy?", "User: No", "Model: Have you been sneeze?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and Vomit and rash.", "Model: Have you been anorexia?", "User: No", "Model: Have you been lethargy?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have Diarrhea and cough and Difficulty breathing and runny nose.", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and lethargy and Pharynx Discomfort.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been cough?", "User: Yes", "Model: Have you been runny nose?", "User: Yes", "Model: Have you been Headache?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and nasal congestion and sneeze and runny nose.", "Model: Have you been rash?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have Drooling and rash.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been lethargy?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough and nasal congestion and sneeze and runny nose.", "Model: Have you been nosebleed?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Diarrhea and cough.", "Model: Have you been fever?", "User: No", "Model: Have you been Night sweats?", "User: Yes", "Model: Have you been runny nose?", "User: No", "Model: Have you been expectoration?", "User: No", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough.", "Model: Have you been runny nose?", "User: Yes", "Model: Have you been sneeze?", "User: Yes", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have cough and sneeze.", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Herpes and rash.", "Model: Have you been fever?", "User: Yes", "Model: Have you been Vomit?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have sneeze and nasal congestion and Difficulty breathing and cough and runny nose.", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have wheezing and cough and nasal congestion and expectoration.", "Model: Have you been mouth bubblings?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have cough and Vomit and nasal congestion.", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Diarrhea and Flatulence.", "Model: Have you been Vomit?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes", "Model: Have you been rash?", "User: Yes", "Model: Have you been Stomach rumbling?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and rash."], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have rash.", "Model: Have you been fever?", "User: No", "Model: Have you been lethargy?", "User: No", "Model: Have you been Herpes?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough and nasal congestion and runny nose.", "Model: Have you been Vomit?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and nasal congestion.", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been rub nose?", "User: Yes", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and anorexia and cough and Vomit.", "Model: Have you been stomach ache?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have anorexia and Pulmonary crackles and cough and Vomit and fever.", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have cough and expectoration and runny nose.", "Model: Have you been nasal congestion?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Diarrhea and Vomit and Stomach rumbling and anorexia and Sour Smelling Stools and stomach ache.", "Model: Have you been Egg Drop-like Stool?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and rash."], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and anorexia and rash.", "Model: Have you been Herpes?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and cough and Rubbing eyes and runny nose.", "Model: Have you been stomach ache?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have runny nose and nasal congestion.", "Model: Have you been cough?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have wheezing and cough and Vomit and expectoration.", "Model: Have you been anorexia?", "User: No", "Model: Have you been lethargy?", "User: No", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been Restlessness?", "User: No", "Model: Have you been lung shadows?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Diarrhea and fever and cough and mouth bubblings and green stool.", "Model: Have you been Pulmonary crackles?", "User: Yes", "Model: Have you been nasal congestion?", "User: Yes", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and rash."], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and cough and nasal congestion.", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Herpes and rash and Restlessness.", "Model: Have you been anorexia?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough and Vomit.", "Model: Have you been fever?", "User: No", "Model: Have you been runny nose?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and rash.", "Model: Have you been anorexia?", "User: No", "Model: Have you been Herpes?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and anorexia and cough.", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Diarrhea and abdominal bloating and rash.", "Model: Have you been stomach ache?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have runny nose and nasal congestion.", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have sneeze and cough and nasal congestion and runny nose and expectoration.", "Model: Have you been fever?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and cough and sneeze and runny nose.", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and nasal congestion and mouth bubblings and Vomit and expectoration.", "Model: Have you been lethargy?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and rash.", "Model: Have you been cough?", "User: No", "Model: Have you been Herpes?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and rash.", "Model: Have you been Herpes?", "User: No", "Model: Have you been Drooling?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have Herpes and rash and Drooling.", "Model: Have you been fever?", "User: No", "Model: Have you been anorexia?", "User: No", "Model: Have you been lethargy?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and Herpes.", "Model: Have you been rash?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and runny nose and Vomit and Diarrhea and nausea and Restlessness."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and Diarrhea and sneeze and Vomit.", "Model: Have you been lethargy?", "User: Yes", "Model: Have you been cough?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have rub nose.", "Model: Have you been Convulsions?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have cough and expectoration and Difficulty breathing.", "Model: Have you been nasal congestion?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and sneeze and Restlessness and runny nose.", "Model: Have you been Vomit?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Diarrhea and Restlessness.", "Model: Have you been lethargy?", "User: No", "Model: Have you been Oliguria?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough.", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have runny nose and nasal congestion.", "Model: Have you been lethargy?", "User: No", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have cough.", "Model: Have you been mouth bubblings?", "User: Yes", "Model: Have you been Vomit?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have rash.", "Model: Have you been fever?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and runny nose.", "Model: Have you been Vomit?", "User: Yes", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and cough and expectoration and runny nose.", "Model: Have you been lung shadows?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Vomit and stomach ache and Headache.", "Model: Have you been Diarrhea?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have stomach ache and Vomit.", "Model: Have you been fever?", "User: No", "Model: Have you been lethargy?", "User: No", "Model: Have you been Oliguria?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and rash.", "Model: Have you been Convulsions?", "User: No", "Model: Have you been cough?", "User: No", "Model: Have you been Vomit?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough and expectoration and runny nose.", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and nasal congestion and rub nose and runny nose.", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and cough.", "Model: Have you been Pharynx Discomfort?", "User: Yes", "Model: Have you been rash?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have runny nose and cough and expectoration and rub nose and sneeze and Restlessness.", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and Herpes and rash."], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have expectoration and White tongue coating."], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and Pharynx Discomfort and rash and Restlessness.", "Model: Have you been lethargy?", "User: No", "Model: Have you been Herpes?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have Diarrhea and Sour Smelling Stools and Restlessness and rash and Flatulence.", "Model: Have you been lethargy?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and Night sweats and Vomit and Pharynx Discomfort and cough and expectoration."], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have runny nose.", "Model: Have you been nasal congestion?", "User: Yes", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and nasal congestion.", "Model: Have you been nosebleed?", "User: Yes", "Model: Have you been rash?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and anorexia and Vomit and Diarrhea."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and stomach ache.", "Model: Have you been cough?", "User: No", "Model: Have you been Vomit?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and anorexia and Herpes.", "Model: Have you been Convulsions?", "User: Yes", "Model: Have you been lethargy?", "User: Yes", "Model: Have you been Vomit?", "User: Yes", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have Diarrhea and Hiccups and Restlessness.", "Model: Have you been Vomit?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have stomach ache and Vomit."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have enlarge lymph nodes and nasal congestion.", "Model: Have you been lethargy?", "User: No", "Model: Have you been rub nose?", "User: Yes", "Model: Have you been cough?", "User: No"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and cough and expectoration.", "Model: Have you been runny nose?", "User: Yes", "Model: Have you been nasal congestion?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have runny nose.", "Model: Have you been nosebleed?", "User: Yes", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have cough.", "Model: Have you been lethargy?", "User: No", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have Diarrhea and fever and cough and expectoration.", "Model: Have you been nasal congestion?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and Vomit.", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been Pharynx Discomfort?", "User: Yes", "Model: Have you been Restlessness?", "User: No"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Vomit and expectoration and cough and nasal congestion and sneeze and rash.", "Model: Have you been fever?", "User: No", "Model: Have you been rub nose?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have Pulmonary crackles and runny nose and Vomit and wheezing and nasal congestion and Restlessness.", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Diarrhea and Convulsions and allergy."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough and nasal congestion and sneeze and runny nose.", "Model: Have you been fever?", "User: No", "Model: Have you been lethargy?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": [], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Diarrhea and sneeze and runny nose.", "Model: Have you been abdominal bloating?", "User: Yes", "Model: Have you been lethargy?", "User: No", "Model: Have you been Oliguria?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have rash.", "Model: Have you been Diarrhea?", "User: Yes", "Model: Have you been cough?", "User: No", "Model: Have you been Vomit?", "User: No", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough and nasal congestion and runny nose and expectoration.", "Model: Have you been fever?", "User: No", "Model: Have you been anorexia?", "User: No", "Model: Have you been lethargy?", "User: No", "Model: Have you been rub nose?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and cough and runny nose.", "Model: Have you been anorexia?", "User: No", "Model: Have you been lethargy?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Diarrhea and Vomit.", "Model: Have you been lethargy?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and cough and expectoration.", "Model: Have you been Pulmonary crackles?", "User: Yes", "Model: Have you been lung shadows?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have anorexia and cough and expectoration.", "Model: Have you been fever?", "User: No", "Model: Have you been runny nose?", "User: No", "Model: Have you been rash?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and Pulmonary crackles and runny nose and Vomit and cough and expectoration.", "Model: Have you been lethargy?", "User: No", "Model: Have you been lung shadows?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have cough and runny nose.", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Diarrhea and nausea and anorexia."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and cough and sneeze and runny nose.", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and runny nose and Restlessness.", "Model: Have you been Diarrhea?", "User: No", "Model: Have you been cough?", "User: No", "Model: Have you been Vomit?", "User: Yes", "Model: Have you been sneeze?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and sneeze and runny nose.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been nasal congestion?", "User: No", "Model: Have you been Restlessness?", "User: Yes", "Model: Have you been expectoration?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and cough.", "Model: Have you been expectoration?", "User: Yes", "Model: Have you been lung shadows?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Diarrhea and cough and nasal congestion and Restlessness and expectoration."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have Herpes.", "Model: Have you been fever?", "User: No", "Model: Have you been lethargy?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and Herpes and rash.", "Model: Have you been Diarrhea?", "User: No", "Model: Have you been Vomit?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have Herpes.", "Model: Have you been fever?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough.", "Model: Have you been Convulsions?", "User: Yes", "Model: Have you been runny nose?", "User: No", "Model: Have you been expectoration?", "User: Yes", "Model: Have you been rub nose?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and Diarrhea.", "Model: Have you been abdominal bloating?", "User: Yes", "Model: Have you been lethargy?", "User: No", "Model: Have you been Oliguria?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and sneeze and expectoration and cough and runny nose.", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and cough and expectoration.", "Model: Have you been Pulmonary crackles?", "User: Yes", "Model: Have you been nasal congestion?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and lethargy and Herpes and rash.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been Vomit?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough and sneeze and rash and runny nose.", "Model: Have you been expectoration?", "User: No", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and cough.", "Model: Have you been lethargy?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and runny nose and Vomit and Diarrhea and cough and stomach ache."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have runny nose and nasal congestion.", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and Rubbing eyes and rub nose.", "Model: Have you been nasal congestion?", "User: Yes", "Model: Have you been Pharynx Discomfort?", "User: Yes", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have cough and expectoration.", "Model: Have you been runny nose?", "User: No", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and anorexia and Vomit and Diarrhea.", "Model: Have you been Sour Smelling Stools?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough and Vomit and runny nose.", "Model: Have you been fever?", "User: No", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and rash.", "Model: Have you been anorexia?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": [], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have anorexia and cough and Vomit and runny nose.", "Model: Have you been lethargy?", "User: Yes", "Model: Have you been Oliguria?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough and expectoration and sneeze and runny nose.", "Model: Have you been Oliguria?", "User: Yes", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and Vomit and mouth bubblings and expectoration.", "Model: Have you been anorexia?", "User: No", "Model: Have you been lethargy?", "User: No", "Model: Have you been lung shadows?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Diarrhea and green stool."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and Diarrhea and Vomit and anorexia and stomach ache and Restlessness.", "Model: Have you been Flatulence?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and anorexia and Herpes and rash.", "Model: Have you been Convulsions?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have nausea and cough and Pharynx Discomfort and runny nose.", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have runny nose and wheezing and cough and nasal congestion and rub nose and sneeze.", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been lung shadows?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Diarrhea and cough and green stool."], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and runny nose and Vomit and cough and expectoration and Restlessness.", "Model: Have you been lethargy?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have runny nose and nasal congestion.", "Model: Have you been fever?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Vomit and expectoration.", "Model: Have you been Pulmonary crackles?", "User: Yes", "Model: Have you been wheezing?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and cough and expectoration and runny nose.", "Model: Have you been anorexia?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and cough.", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have runny nose and Difficulty breathing.", "Model: Have you been sneeze?", "User: No", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have Diarrhea and thirst.", "Model: Have you been anorexia?", "User: No", "Model: Have you been lethargy?", "User: No", "Model: Have you been Difficulty breathing?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have Vomit and Difficulty breathing and Restlessness and expectoration.", "Model: Have you been Diarrhea?", "User: Yes", "Model: Have you been lethargy?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and expectoration.", "Model: Have you been lethargy?", "User: No", "Model: Have you been Vomit?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been mouth bubblings?", "User: Yes", "Model: Have you been Restlessness?", "User: No"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Egg Drop-like Stool and Diarrhea.", "Model: Have you been cough?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and cough and sneeze and runny nose.", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and Night sweats and cough and runny nose.", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have cough and runny nose.", "Model: Have you been Diarrhea?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Herpes.", "Model: Have you been rash?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough and expectoration and runny nose.", "Model: Have you been nasal congestion?", "User: Yes", "Model: Have you been rash?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have cough and expectoration and runny nose.", "Model: Have you been fever?", "User: Yes", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and runny nose.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been lethargy?", "User: Yes", "Model: Have you been Vomit?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough and nasal congestion and runny nose and rash.", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and Vomit and Headache.", "Model: Have you been rash?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Diarrhea and nausea and Vomit and anorexia.", "Model: Have you been fever?", "User: No", "Model: Have you been lethargy?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough and expectoration and runny nose."], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have nasal congestion.", "Model: Have you been anorexia?", "User: No", "Model: Have you been enlarge lymph nodes?", "User: Yes", "Model: Have you been lethargy?", "User: No", "Model: Have you been rub nose?", "User: Yes", "Model: Have you been cough?", "User: No"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and lethargy and Herpes.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been rash?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and runny nose.", "Model: Have you been lethargy?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have cough and expectoration and Difficulty breathing and Vomit and nasal congestion."], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and Herpes and rash."], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have runny nose and nasal congestion and sneeze and Rubbing eyes and rub nose and cough.", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have cough and expectoration and runny nose.", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been rash?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have cough and runny nose.", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and cough and nasal congestion and runny nose and Headache.", "Model: Have you been anorexia?", "User: No", "Model: Have you been lethargy?", "User: No", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and Difficulty breathing and Pharynx Discomfort.", "Model: Have you been cough?", "User: Yes", "Model: Have you been runny nose?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and rash.", "Model: Have you been lethargy?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough and expectoration and Headache.", "Model: Have you been fever?", "User: Yes", "Model: Have you been lethargy?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and Night sweats.", "Model: Have you been cough?", "User: Yes", "Model: Have you been runny nose?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Diarrhea and anorexia and Oliguria."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and runny nose.", "Model: Have you been sneeze?", "User: Yes", "Model: Have you been expectoration?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and nasal congestion and runny nose.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have expectoration and Difficulty breathing.", "Model: Have you been fever?", "User: No", "Model: Have you been anorexia?", "User: No", "Model: Have you been lethargy?", "User: No", "Model: Have you been runny nose?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Diarrhea and White tongue coating and green stool."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have runny nose and Pharynx Discomfort and White tongue coating.", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been Headache?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and Vomit.", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and cough and expectoration.", "Model: Have you been lethargy?", "User: Yes", "Model: Have you been runny nose?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and runny nose and Pharynx Discomfort and cough and nasal congestion and Restlessness.", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and cough and expectoration and runny nose and Drooling.", "Model: Have you been anorexia?", "User: No", "Model: Have you been lethargy?", "User: No"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and cough.", "Model: Have you been lethargy?", "User: Yes", "Model: Have you been expectoration?", "User: Yes", "Model: Have you been runny nose?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and runny nose and sneeze.", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and cough and nasal congestion."], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough.", "Model: Have you been fever?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and cough and expectoration."], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Egg Drop-like Stool and fever and lethargy and Vomit."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough and nasal congestion and allergy and runny nose.", "Model: Have you been rash?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have cough and runny nose.", "Model: Have you been nasal congestion?", "User: Yes", "Model: Have you been rash?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and Herpes and rash.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have sneeze and Vomit and cough and mouth bubblings.", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and cough and Vomit and stomach ache.", "Model: Have you been Diarrhea?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Diarrhea.", "Model: Have you been cough?", "User: Yes", "Model: Have you been runny nose?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been lethargy?", "User: Yes", "Model: Have you been cough?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have cough and expectoration.", "Model: Have you been fever?", "User: No", "Model: Have you been lethargy?", "User: No"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Egg Drop-like Stool and wheezing and cough and Restlessness.", "Model: Have you been mouth bubblings?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Diarrhea and Restlessness.", "Model: Have you been nausea?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and Herpes and rash."], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have Convulsions and runny nose and nasal congestion and rub nose and sneeze.", "Model: Have you been cough?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and Restlessness and rash.", "Model: Have you been cough?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and rash."], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have expectoration and Difficulty breathing.", "Model: Have you been cough?", "User: Yes", "Model: Have you been nasal congestion?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have cough and expectoration and runny nose.", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and rash.", "Model: Have you been Herpes?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have Diarrhea and lethargy and Vomit and rash and green stool.", "Model: Have you been fever?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough and nasal congestion and runny nose and Restlessness.", "Model: Have you been lethargy?", "User: No", "Model: Have you been Vomit?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have cough and nasal congestion and sneeze and runny nose.", "Model: Have you been Convulsions?", "User: Yes", "Model: Have you been rub nose?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have cough and runny nose.", "Model: Have you been mouth bubblings?", "User: No", "Model: Have you been expectoration?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and Diarrhea and rash.", "Model: Have you been Egg Drop-like Stool?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and cough and expectoration.", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have runny nose and sneeze and rash."], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have Diarrhea and Stomach rumbling.", "Model: Have you been lethargy?", "User: No", "Model: Have you been Oliguria?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough and Pharynx Discomfort.", "Model: Have you been fever?", "User: No", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been runny nose?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and cough and Difficulty breathing and runny nose.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been lethargy?", "User: No", "Model: Have you been Vomit?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Vomit and green stool.", "Model: Have you been Diarrhea?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and Drooling and rash.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been lethargy?", "User: Yes", "Model: Have you been Herpes?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and Restlessness and rash.", "Model: Have you been anorexia?", "User: No", "Model: Have you been Pharynx Discomfort?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have Egg Drop-like Stool and Diarrhea and runny nose and sneeze and green stool."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have Diarrhea and lethargy and stomach ache and Vomit.", "Model: Have you been Convulsions?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and Diarrhea and lethargy.", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough and nasal congestion and Restlessness.", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been Convulsions?", "User: Yes", "Model: Have you been expectoration?", "User: Yes", "Model: Have you been rub nose?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have cough and expectoration and runny nose.", "Model: Have you been Vomit?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and Vomit and sneeze and runny nose.", "Model: Have you been nasal congestion?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and rash.", "Model: Have you been Vomit?", "User: No", "Model: Have you been Herpes?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough and Vomit and runny nose.", "Model: Have you been fever?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have wheezing and cough and nasal congestion and Difficulty breathing."], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and cough and sneeze.", "Model: Have you been mouth bubblings?", "User: Yes", "Model: Have you been Vomit?", "User: Yes", "Model: Have you been rub nose?", "User: Yes", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Diarrhea and Vomit and stomach ache and rash.", "Model: Have you been lethargy?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and cough and Difficulty breathing and runny nose.", "Model: Have you been lung shadows?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Diarrhea and runny nose and nosebleed and sneeze."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and cough.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been sneeze?", "User: Yes", "Model: Have you been runny nose?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have anorexia and Herpes and Restlessness.", "Model: Have you been fever?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and lethargy and Pharynx Discomfort and cough and nasal congestion and sneeze.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes", "Model: Have you been green stool?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have cough and runny nose and Restlessness.", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and cough and expectoration.", "Model: Have you been anorexia?", "User: No", "Model: Have you been lethargy?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Flatulence and Vomit and Diarrhea and Sour Smelling Stools and Hiccups and Egg Drop-like Stool.", "Model: Have you been rash?", "User: Yes", "Model: Have you been Stomach rumbling?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have runny nose and nasal congestion and Difficulty breathing and Restlessness.", "Model: Have you been anorexia?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and cough and expectoration and runny nose and Restlessness.", "Model: Have you been lethargy?", "User: No"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have cough and nasal congestion and Difficulty breathing and sneeze.", "Model: Have you been Vomit?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and runny nose and nasal congestion.", "Model: Have you been Pulmonary crackles?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have runny nose and expectoration.", "Model: Have you been fever?", "User: No", "Model: Have you been lethargy?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Diarrhea and Stomach rumbling."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and runny nose and Diarrhea and cough and expectoration and sneeze.", "Model: Have you been lung shadows?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have runny nose and nasal congestion and rash.", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have cough and runny nose."], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Diarrhea and Vomit.", "Model: Have you been fever?", "User: No", "Model: Have you been anorexia?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough and Vomit and expectoration.", "Model: Have you been fever?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have cough and rash.", "Model: Have you been fever?", "User: Yes", "Model: Have you been Herpes?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have Diarrhea and Restlessness and weight loss."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have Diarrhea and anorexia and rash.", "Model: Have you been Oliguria?", "User: Yes", "Model: Have you been weight loss?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have Herpes and rash."], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough and sneeze and runny nose.", "Model: Have you been Vomit?", "User: Yes", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have Diarrhea.", "Model: Have you been abdominal bloating?", "User: Yes", "Model: Have you been Vomit?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough and Vomit and expectoration.", "Model: Have you been fever?", "User: No", "Model: Have you been mouth bubblings?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Diarrhea and anorexia and cough and runny nose and Restlessness.", "Model: Have you been fever?", "User: No", "Model: Have you been lethargy?", "User: No", "Model: Have you been nasal congestion?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and cough and Pharynx Discomfort and runny nose.", "Model: Have you been Vomit?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and expectoration and runny nose and Restlessness.", "Model: Have you been Pulmonary crackles?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have sneeze and runny nose.", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and cough and expectoration and runny nose.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been Vomit?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and Diarrhea."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have anorexia and cough and expectoration and runny nose.", "Model: Have you been fever?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and allergy and runny nose.", "Model: Have you been lethargy?", "User: No", "Model: Have you been nasal congestion?", "User: No"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have cough and nasal congestion and Difficulty breathing.", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and cough.", "Model: Have you been lung shadows?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have rash and green stool and Stomach rumbling and Diarrhea and stomach ache and Restlessness.", "Model: Have you been lethargy?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and cough and runny nose.", "Model: Have you been Diarrhea?", "User: No", "Model: Have you been Oliguria?", "User: No", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and stomach ache and Vomit.", "Model: Have you been Diarrhea?", "User: No", "Model: Have you been lethargy?", "User: No", "Model: Have you been cough?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and Vomit and Herpes and rash.", "Model: Have you been anorexia?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have Diarrhea and fever and lethargy and Vomit and green stool."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and Herpes and rash.", "Model: Have you been Drooling?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and anorexia and cough and Vomit.", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and Restlessness and rash.", "Model: Have you been Herpes?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and rash.", "Model: Have you been Herpes?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough and nasal congestion and runny nose.", "Model: Have you been fever?", "User: No", "Model: Have you been Pulmonary crackles?", "User: Yes", "Model: Have you been lethargy?", "User: No", "Model: Have you been mouth bubblings?", "User: No", "Model: Have you been expectoration?", "User: Yes", "Model: Have you been Restlessness?", "User: No"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and cough.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been expectoration?", "User: Yes", "Model: Have you been lung shadows?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and cough and runny nose."], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and Herpes.", "Model: Have you been lethargy?", "User: Yes", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough.", "Model: Have you been fever?", "User: No", "Model: Have you been expectoration?", "User: No", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been rash?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have lethargy and Vomit and Restlessness and Diarrhea and nausea and runny nose and Headache.", "Model: Have you been anorexia?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have sneeze and nasal congestion and cough and Vomit and mouth bubblings.", "Model: Have you been fever?", "User: No", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and Vomit and expectoration.", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and cough and runny nose.", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Difficulty breathing.", "Model: Have you been cough?", "User: Yes", "Model: Have you been nasal congestion?", "User: No", "Model: Have you been runny nose?", "User: No"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have cough and expectoration and Difficulty breathing and sneeze and runny nose."], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and cough and Rubbing eyes and runny nose and expectoration.", "Model: Have you been lethargy?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have sneeze and nasal congestion and rash.", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and Night sweats and Drooling.", "Model: Have you been Herpes?", "User: Yes", "Model: Have you been rash?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and runny nose and nasal congestion and Restlessness.", "Model: Have you been cough?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and mouth bubblings and sneeze and Restlessness and runny nose."], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have wheezing and cough.", "Model: Have you been fever?", "User: No", "Model: Have you been runny nose?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have expectoration and Difficulty breathing.", "Model: Have you been fever?", "User: No", "Model: Have you been cough?", "User: No", "Model: Have you been runny nose?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and Diarrhea and runny nose and nasal congestion.", "Model: Have you been lethargy?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough.", "Model: Have you been Difficulty breathing?", "User: No", "Model: Have you been Restlessness?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough.", "Model: Have you been nasal congestion?", "User: Yes", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and rash.", "Model: Have you been Herpes?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have Diarrhea and abdominal bloating and Vomit and Stomach rumbling.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been lethargy?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have Convulsions and cough and Difficulty breathing and sneeze and runny nose."], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have sneeze and nasal congestion and runny nose and Restlessness.", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have Diarrhea and cough and runny nose."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and rash.", "Model: Have you been Diarrhea?", "User: Yes", "Model: Have you been green stool?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have lethargy and stomach ache and Vomit.", "Model: Have you been fever?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and Herpes and rash."], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and Restlessness and rash.", "Model: Have you been anorexia?", "User: No", "Model: Have you been cough?", "User: No", "Model: Have you been Vomit?", "User: No", "Model: Have you been lethargy?", "User: Yes", "Model: Have you been Herpes?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and Diarrhea and Restlessness.", "Model: Have you been anorexia?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have sneeze and nasal congestion and Difficulty breathing.", "Model: Have you been rub nose?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have Herpes and rash."], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough and Herpes and Restlessness.", "Model: Have you been fever?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have Diarrhea and fever and Rubbing eyes and rash.", "Model: Have you been lethargy?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have Egg Drop-like Stool and Diarrhea.", "Model: Have you been lethargy?", "User: No", "Model: Have you been Oliguria?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have mouth bubblings and nasal congestion and cough and expectoration."], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Egg Drop-like Stool and Diarrhea and fever and Vomit.", "Model: Have you been lethargy?", "User: No", "Model: Have you been Oliguria?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and cough.", "Model: Have you been lethargy?", "User: No", "Model: Have you been Difficulty breathing?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and Vomit and Herpes and rash.", "Model: Have you been anorexia?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and stomach ache and Vomit.", "Model: Have you been abdominal bloating?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have Convulsions and cough and runny nose.", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have sneeze and nasal congestion.", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have expectoration and sneeze and nasal congestion and cough and Herpes.", "Model: Have you been fever?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and Diarrhea and Vomit and Stomach rumbling.", "Model: Have you been anorexia?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough and mouth bubblings and Difficulty breathing and sneeze and runny nose.", "Model: Have you been Vomit?", "User: Yes", "Model: Have you been nasal congestion?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and anorexia and lethargy.", "Model: Have you been enlarge lymph nodes?", "User: Yes", "Model: Have you been Herpes?", "User: Yes", "Model: Have you been rash?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have runny nose and Vomit and Restlessness.", "Model: Have you been fever?", "User: No", "Model: Have you been Pulmonary crackles?", "User: No", "Model: Have you been nasal congestion?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and expectoration.", "Model: Have you been Pulmonary crackles?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and Diarrhea and Drooling and Restlessness.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been lethargy?", "User: Yes", "Model: Have you been rash?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and Herpes and rash.", "Model: Have you been anorexia?", "User: No", "Model: Have you been lethargy?", "User: No", "Model: Have you been Drooling?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have allergy and cough and runny nose and Pharynx Discomfort.", "Model: Have you been rub nose?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and cough and Vomit and Pharynx Discomfort and expectoration.", "Model: Have you been lethargy?", "User: No", "Model: Have you been lung shadows?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have Diarrhea and green stool.", "Model: Have you been Egg Drop-like Stool?", "User: Yes", "Model: Have you been fever?", "User: No", "Model: Have you been lethargy?", "User: No", "Model: Have you been Vomit?", "User: Yes", "Model: Have you been Convulsions?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough and expectoration and sneeze and Vomit and nasal congestion.", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and cough and nasal congestion.", "Model: Have you been runny nose?", "User: No", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Diarrhea and fever and rash."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have Diarrhea and anorexia and lethargy and Vomit."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": [], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and sneeze and runny nose.", "Model: Have you been fever?", "User: No", "Model: Have you been Vomit?", "User: Yes", "Model: Have you been expectoration?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and cough and sneeze and runny nose."], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Diarrhea and sneeze and runny nose.", "Model: Have you been cough?", "User: Yes", "Model: Have you been Vomit?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough and expectoration and runny nose.", "Model: Have you been fever?", "User: No", "Model: Have you been anorexia?", "User: No", "Model: Have you been lethargy?", "User: No", "Model: Have you been nasal congestion?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and cough and expectoration.", "Model: Have you been Pulmonary crackles?", "User: Yes", "Model: Have you been Vomit?", "User: Yes", "Model: Have you been Diarrhea?", "User: Yes", "Model: Have you been sneeze?", "User: Yes", "Model: Have you been nasal congestion?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have cough.", "Model: Have you been Vomit?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and runny nose and nasal congestion and sneeze and expectoration and cough.", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have cough and Pharynx Discomfort.", "Model: Have you been runny nose?", "User: Yes", "Model: Have you been expectoration?", "User: Yes", "Model: Have you been rub nose?", "User: Yes", "Model: Have you been Vomit?", "User: No", "Model: Have you been nasal congestion?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have Diarrhea and anorexia and Stomach rumbling and green stool and Flatulence.", "Model: Have you been abdominal bloating?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough and Vomit and runny nose and Restlessness and nasal congestion.", "Model: Have you been lethargy?", "User: No", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been Drooling?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and cough and nasal congestion.", "Model: Have you been runny nose?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and expectoration and sneeze and runny nose.", "Model: Have you been fever?", "User: Yes", "Model: Have you been lethargy?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and Herpes and rash and Pharynx Discomfort.", "Model: Have you been sneeze?", "User: Yes", "Model: Have you been runny nose?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and cough and runny nose."], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have cough and nasal congestion.", "Model: Have you been lethargy?", "User: No", "Model: Have you been allergy?", "User: Yes", "Model: Have you been rash?", "User: No"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and lethargy and Vomit."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough.", "Model: Have you been nasal congestion?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and Herpes and rash.", "Model: Have you been anorexia?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have anorexia and rash.", "Model: Have you been lethargy?", "User: No", "Model: Have you been Drooling?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough and runny nose and Restlessness.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and cough.", "Model: Have you been Rubbing eyes?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Herpes and rash.", "Model: Have you been fever?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and runny nose and Vomit and expectoration.", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and nasal congestion and allergy and runny nose.", "Model: Have you been sneeze?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have Pulmonary crackles and cough and runny nose.", "Model: Have you been fever?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and runny nose and Restlessness and Herpes and rash and Drooling.", "Model: Have you been nosebleed?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever.", "Model: Have you been anorexia?", "User: No", "Model: Have you been cough?", "User: Yes", "Model: Have you been expectoration?", "User: Yes", "Model: Have you been lung shadows?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have sneeze and rub nose.", "Model: Have you been allergy?", "User: Yes", "Model: Have you been rash?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have runny nose and nasal congestion.", "Model: Have you been cough?", "User: Yes", "Model: Have you been Rubbing eyes?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have runny nose and Rubbing eyes and Pharynx Discomfort.", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have Diarrhea and weight loss."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and Diarrhea and Vomit.", "Model: Have you been lethargy?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough and expectoration.", "Model: Have you been runny nose?", "User: Yes", "Model: Have you been allergy?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have cough and expectoration."], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and expectoration.", "Model: Have you been nasal congestion?", "User: Yes", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and Diarrhea and Rubbing eyes."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and Herpes.", "Model: Have you been rash?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have nasal congestion and Restlessness and expectoration.", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been lethargy?", "User: No", "Model: Have you been Vomit?", "User: Yes", "Model: Have you been mouth bubblings?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have anorexia and cough and runny nose and Restlessness.", "Model: Have you been fever?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and stomach ache and Herpes and rash and Drooling."], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and cough and Vomit and runny nose.", "Model: Have you been Diarrhea?", "User: Yes", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have anorexia and nausea and lethargy and Vomit.", "Model: Have you been Diarrhea?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have nasal congestion.", "Model: Have you been lethargy?", "User: No", "Model: Have you been rash?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have cough and runny nose.", "Model: Have you been rub nose?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have cough and expectoration.", "Model: Have you been fever?", "User: No", "Model: Have you been mouth bubblings?", "User: Yes", "Model: Have you been runny nose?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and runny nose.", "Model: Have you been Diarrhea?", "User: Yes", "Model: Have you been Vomit?", "User: No", "Model: Have you been Pharynx Discomfort?", "User: Yes", "Model: Have you been anorexia?", "User: Yes", "Model: Have you been cough?", "User: No", "Model: Have you been rash?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough.", "Model: Have you been nasal congestion?", "User: No", "Model: Have you been rub nose?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have cough and runny nose.", "Model: Have you been anorexia?", "User: No", "Model: Have you been Night sweats?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Herpes and rash.", "Model: Have you been fever?", "User: No", "Model: Have you been lethargy?", "User: No", "Model: Have you been Vomit?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have Diarrhea and Night sweats.", "Model: Have you been fever?", "User: No", "Model: Have you been lethargy?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and cough.", "Model: Have you been Difficulty breathing?", "User: Yes", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and runny nose.", "Model: Have you been fever?", "User: No", "Model: Have you been lethargy?", "User: No", "Model: Have you been expectoration?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have fever and nausea and Vomit.", "Model: Have you been anorexia?", "User: No", "Model: Have you been lethargy?", "User: No"], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and lethargy and cough and runny nose.", "Model: Have you been Rubbing eyes?", "User: Yes", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have Diarrhea and nausea and Vomit and anorexia and Restlessness."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have fever and Convulsions and Herpes and Restlessness.", "Model: Have you been anorexia?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and Diarrhea and lethargy and Stomach rumbling."], "true_disease": "Pediatric Diarrhea"}
+{"dialogue": ["User: I have cough and Pharynx Discomfort.", "Model: Have you been Pulmonary crackles?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have sneeze and nasal congestion.", "Model: Have you been rub nose?", "User: Yes", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and cough and Vomit and runny nose."], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have sneeze and nasal congestion and rub nose and Restlessness.", "Model: Have you been Rubbing eyes?", "User: Yes", "Model: Have you been rash?", "User: Yes", "Model: Have you been nosebleed?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have runny nose.", "Model: Have you been fever?", "User: No", "Model: Have you been cough?", "User: No", "Model: Have you been sneeze?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and Herpes.", "Model: Have you been lethargy?", "User: No", "Model: Have you been rash?", "User: Yes"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have fever and anorexia.", "Model: Have you been Pulmonary crackles?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and cough and Vomit.", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have wheezing and cough and expectoration.", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and expectoration and runny nose and Restlessness.", "Model: Have you been lethargy?", "User: No", "Model: Have you been Difficulty breathing?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have cough and expectoration and runny nose.", "Model: Have you been Pharynx Discomfort?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and Difficulty breathing.", "Model: Have you been fever?", "User: No", "Model: Have you been Vomit?", "User: Yes"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and nasal congestion and sneeze and runny nose.", "Model: Have you been fever?", "User: No", "Model: Have you been expectoration?", "User: No"], "true_disease": "upper respiratory tract infection"}
+{"dialogue": ["User: I have cough and nasal congestion and runny nose and expectoration.", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "allergic rhinitis"}
+{"dialogue": ["User: I have fever and rash.", "Model: Have you been anorexia?", "User: No", "Model: Have you been lethargy?", "User: No"], "true_disease": "Children hand-foot-mouth disease"}
+{"dialogue": ["User: I have cough and mouth bubblings.", "Model: Have you been Diarrhea?", "User: No", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "pneumonia"}
+{"dialogue": ["User: I have fever and cough and expectoration and runny nose.", "Model: Have you been Restlessness?", "User: Yes"], "true_disease": "upper respiratory tract infection"}

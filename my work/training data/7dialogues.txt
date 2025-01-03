@@ -1,0 +1,849 @@
+User: I have Diarrhea and Restlessness and weight loss.
+
+User: I have Diarrhea and anorexia and rash.
+Model: Have you experienced Oliguria?
+User: Yes
+Model: Have you experienced weight loss?
+User: Yes
+
+User: I have Herpes and rash.
+
+User: I have cough and sneeze and runny nose.
+Model: Have you experienced Vomit?
+User: Yes
+Model: Have you experienced allergy?
+User: Yes
+
+User: I have Diarrhea.
+Model: Have you experienced abdominal bloating?
+User: Yes
+Model: Have you experienced Vomit?
+User: Yes
+
+User: I have cough and Vomit and expectoration.
+Model: Have you experienced fever?
+User: No
+Model: Have you experienced mouth bubblings?
+User: Yes
+Model: Have you experienced Difficulty breathing?
+User: Yes
+
+User: I have Diarrhea and anorexia and cough and runny nose and Restlessness.
+Model: Have you experienced fever?
+User: No
+Model: Have you experienced lethargy?
+User: No
+Model: Have you experienced nasal congestion?
+User: No
+
+User: I have fever and cough and Pharynx Discomfort and runny nose.
+Model: Have you experienced Vomit?
+User: Yes
+
+User: I have cough and expectoration and runny nose and Restlessness.
+Model: Have you experienced Pulmonary crackles?
+User: Yes
+Model: Have you experienced Difficulty breathing?
+User: Yes
+
+User: I have sneeze and runny nose.
+Model: Have you experienced allergy?
+User: Yes
+
+User: I have fever and cough and expectoration and runny nose.
+Model: Have you experienced anorexia?
+User: Yes
+Model: Have you experienced Vomit?
+User: Yes
+
+User: I have fever and Diarrhea.
+
+User: I have anorexia and cough and expectoration and runny nose.
+Model: Have you experienced fever?
+User: No
+
+User: I have cough and allergy and runny nose.
+Model: Have you experienced lethargy?
+User: No
+Model: Have you experienced nasal congestion?
+User: No
+
+User: I have cough and nasal congestion and Difficulty breathing.
+Model: Have you experienced allergy?
+User: Yes
+
+User: I have fever and cough.
+Model: Have you experienced lung shadows?
+User: Yes
+
+User: I have rash and green stool and Stomach rumbling and Diarrhea and stomach ache and Restlessness.
+Model: Have you experienced lethargy?
+User: No
+
+User: I have fever and cough and runny nose.
+Model: Have you experienced Diarrhea?
+User: No
+Model: Have you experienced Oliguria?
+User: No
+Model: Have you experienced Difficulty breathing?
+User: Yes
+Model: Have you experienced expectoration?
+User: Yes
+
+User: I have fever and stomach ache and Vomit.
+Model: Have you experienced Diarrhea?
+User: No
+Model: Have you experienced lethargy?
+User: No
+Model: Have you experienced cough?
+User: No
+
+User: I have fever and Vomit and Herpes and rash.
+Model: Have you experienced anorexia?
+User: Yes
+
+User: I have Diarrhea and fever and lethargy and Vomit and green stool.
+
+User: I have fever and Herpes and rash.
+Model: Have you experienced Drooling?
+User: Yes
+Model: Have you experienced Restlessness?
+User: Yes
+
+User: I have fever and anorexia and cough and Vomit.
+Model: Have you experienced Pharynx Discomfort?
+User: Yes
+
+User: I have fever and Restlessness and rash.
+Model: Have you experienced Herpes?
+User: Yes
+
+User: I have fever and rash.
+Model: Have you experienced Herpes?
+User: No
+
+User: I have cough and nasal congestion and runny nose.
+Model: Have you experienced fever?
+User: No
+Model: Have you experienced Pulmonary crackles?
+User: Yes
+Model: Have you experienced lethargy?
+User: No
+Model: Have you experienced mouth bubblings?
+User: No
+Model: Have you experienced expectoration?
+User: Yes
+Model: Have you experienced Restlessness?
+User: No
+
+User: I have fever and cough.
+Model: Have you experienced anorexia?
+User: Yes
+Model: Have you experienced expectoration?
+User: Yes
+Model: Have you experienced lung shadows?
+User: Yes
+
+User: I have fever and cough and runny nose.
+
+User: I have fever and Herpes.
+Model: Have you experienced lethargy?
+User: Yes
+Model: Have you experienced Pharynx Discomfort?
+User: Yes
+
+User: I have cough.
+Model: Have you experienced fever?
+User: No
+Model: Have you experienced expectoration?
+User: No
+Model: Have you experienced Difficulty breathing?
+User: Yes
+Model: Have you experienced rash?
+User: Yes
+
+User: I have lethargy and Vomit and Restlessness and Diarrhea and nausea and runny nose and Headache.
+Model: Have you experienced anorexia?
+User: Yes
+
+User: I have sneeze and nasal congestion and cough and Vomit and mouth bubblings.
+Model: Have you experienced fever?
+User: No
+Model: Have you experienced Difficulty breathing?
+User: Yes
+
+User: I have cough and Vomit and expectoration.
+Model: Have you experienced allergy?
+User: Yes
+
+User: I have fever and cough and runny nose.
+Model: Have you experienced Restlessness?
+User: Yes
+
+User: I have Difficulty breathing.
+Model: Have you experienced cough?
+User: Yes
+Model: Have you experienced nasal congestion?
+User: No
+Model: Have you experienced runny nose?
+User: No
+
+User: I have cough and expectoration and Difficulty breathing and sneeze and runny nose.
+
+User: I have fever and cough and Rubbing eyes and runny nose and expectoration.
+Model: Have you experienced lethargy?
+User: Yes
+
+User: I have sneeze and nasal congestion and rash.
+Model: Have you experienced allergy?
+User: Yes
+
+User: I have fever and Night sweats and Drooling.
+Model: Have you experienced Herpes?
+User: Yes
+Model: Have you experienced rash?
+User: Yes
+
+User: I have fever and runny nose and nasal congestion and Restlessness.
+Model: Have you experienced cough?
+User: Yes
+
+User: I have cough and mouth bubblings and sneeze and Restlessness and runny nose.
+
+User: I have wheezing and cough.
+Model: Have you experienced fever?
+User: No
+Model: Have you experienced runny nose?
+User: Yes
+
+User: I have expectoration and Difficulty breathing.
+Model: Have you experienced fever?
+User: No
+Model: Have you experienced cough?
+User: No
+Model: Have you experienced runny nose?
+User: Yes
+
+User: I have fever and Diarrhea and runny nose and nasal congestion.
+Model: Have you experienced lethargy?
+User: Yes
+Model: Have you experienced Restlessness?
+User: Yes
+
+User: I have cough.
+Model: Have you experienced Difficulty breathing?
+User: No
+Model: Have you experienced Restlessness?
+User: No
+
+User: I have cough.
+Model: Have you experienced nasal congestion?
+User: Yes
+Model: Have you experienced allergy?
+User: Yes
+
+User: I have fever and rash.
+Model: Have you experienced Herpes?
+User: Yes
+Model: Have you experienced Restlessness?
+User: Yes
+
+User: I have Diarrhea and abdominal bloating and Vomit and Stomach rumbling.
+Model: Have you experienced anorexia?
+User: Yes
+Model: Have you experienced lethargy?
+User: Yes
+
+User: I have Convulsions and cough and Difficulty breathing and sneeze and runny nose.
+
+User: I have sneeze and nasal congestion and runny nose and Restlessness.
+Model: Have you experienced Difficulty breathing?
+User: Yes
+
+User: I have Diarrhea and cough and runny nose.
+
+User: I have fever and rash.
+Model: Have you experienced Diarrhea?
+User: Yes
+Model: Have you experienced green stool?
+User: Yes
+
+User: I have lethargy and stomach ache and Vomit.
+Model: Have you experienced fever?
+User: Yes
+
+User: I have fever and Herpes and rash.
+
+User: I have fever and Restlessness and rash.
+Model: Have you experienced anorexia?
+User: No
+Model: Have you experienced cough?
+User: No
+Model: Have you experienced Vomit?
+User: No
+Model: Have you experienced lethargy?
+User: Yes
+Model: Have you experienced Herpes?
+User: Yes
+
+User: I have fever and Diarrhea and Restlessness.
+Model: Have you experienced anorexia?
+User: Yes
+
+User: I have sneeze and nasal congestion and Difficulty breathing.
+Model: Have you experienced rub nose?
+User: Yes
+
+User: I have Herpes and rash.
+
+User: I have cough and Herpes and Restlessness.
+Model: Have you experienced fever?
+User: No
+
+User: I have Diarrhea and fever and Rubbing eyes and rash.
+Model: Have you experienced lethargy?
+User: No
+
+User: I have Egg Drop-like Stool and Diarrhea.
+Model: Have you experienced lethargy?
+User: No
+Model: Have you experienced Oliguria?
+User: No
+
+User: I have mouth bubblings and nasal congestion and cough and expectoration.
+
+User: I have Egg Drop-like Stool and Diarrhea and fever and Vomit.
+Model: Have you experienced lethargy?
+User: No
+Model: Have you experienced Oliguria?
+User: Yes
+Model: Have you experienced Restlessness?
+User: Yes
+
+User: I have fever and cough.
+Model: Have you experienced lethargy?
+User: No
+Model: Have you experienced Difficulty breathing?
+User: No
+
+User: I have fever and Vomit and Herpes and rash.
+Model: Have you experienced anorexia?
+User: Yes
+
+User: I have fever and stomach ache and Vomit.
+Model: Have you experienced abdominal bloating?
+User: Yes
+
+User: I have Convulsions and cough and runny nose.
+Model: Have you experienced allergy?
+User: Yes
+
+User: I have sneeze and nasal congestion.
+Model: Have you experienced allergy?
+User: Yes
+
+User: I have expectoration and sneeze and nasal congestion and cough and Herpes.
+Model: Have you experienced fever?
+User: Yes
+
+User: I have fever and Diarrhea and Vomit and Stomach rumbling.
+Model: Have you experienced anorexia?
+User: Yes
+
+User: I have cough and mouth bubblings and Difficulty breathing and sneeze and runny nose.
+Model: Have you experienced Vomit?
+User: Yes
+Model: Have you experienced nasal congestion?
+User: Yes
+
+User: I have fever and anorexia and lethargy.
+Model: Have you experienced enlarge lymph nodes?
+User: Yes
+Model: Have you experienced Herpes?
+User: Yes
+Model: Have you experienced rash?
+User: No
+
+User: I have runny nose and Vomit and Restlessness.
+Model: Have you experienced fever?
+User: No
+Model: Have you experienced Pulmonary crackles?
+User: No
+Model: Have you experienced nasal congestion?
+User: Yes
+
+User: I have cough and expectoration.
+Model: Have you experienced Pulmonary crackles?
+User: Yes
+Model: Have you experienced Difficulty breathing?
+User: Yes
+
+User: I have fever and Diarrhea and Drooling and Restlessness.
+Model: Have you experienced anorexia?
+User: Yes
+Model: Have you experienced lethargy?
+User: Yes
+Model: Have you experienced rash?
+User: Yes
+
+User: I have fever and Herpes and rash.
+Model: Have you experienced anorexia?
+User: No
+Model: Have you experienced lethargy?
+User: No
+Model: Have you experienced Drooling?
+User: Yes
+
+User: I have allergy and cough and runny nose and Pharynx Discomfort.
+Model: Have you experienced rub nose?
+User: Yes
+
+User: I have fever and cough and Vomit and Pharynx Discomfort and expectoration.
+Model: Have you experienced lethargy?
+User: No
+Model: Have you experienced lung shadows?
+User: Yes
+
+User: I have Diarrhea and green stool.
+Model: Have you experienced Egg Drop-like Stool?
+User: Yes
+Model: Have you experienced fever?
+User: No
+Model: Have you experienced lethargy?
+User: No
+Model: Have you experienced Vomit?
+User: Yes
+Model: Have you experienced Convulsions?
+User: Yes
+
+User: I have cough and expectoration and sneeze and Vomit and nasal congestion.
+Model: Have you experienced Difficulty breathing?
+User: Yes
+
+User: I have fever and cough and nasal congestion.
+Model: Have you experienced runny nose?
+User: No
+Model: Have you experienced Difficulty breathing?
+User: Yes
+
+User: I have Diarrhea and fever and rash.
+
+User: I have Diarrhea and anorexia and lethargy and Vomit.
+
+
+User: I have cough and sneeze and runny nose.
+Model: Have you experienced fever?
+User: No
+Model: Have you experienced Vomit?
+User: Yes
+Model: Have you experienced expectoration?
+User: Yes
+
+User: I have fever and cough and sneeze and runny nose.
+
+User: I have Diarrhea and sneeze and runny nose.
+Model: Have you experienced cough?
+User: Yes
+Model: Have you experienced Vomit?
+User: Yes
+Model: Have you experienced Restlessness?
+User: Yes
+
+User: I have cough and expectoration and runny nose.
+Model: Have you experienced fever?
+User: No
+Model: Have you experienced anorexia?
+User: No
+Model: Have you experienced lethargy?
+User: No
+Model: Have you experienced nasal congestion?
+User: Yes
+
+User: I have fever and cough and expectoration.
+Model: Have you experienced Pulmonary crackles?
+User: Yes
+Model: Have you experienced Vomit?
+User: Yes
+Model: Have you experienced Diarrhea?
+User: Yes
+Model: Have you experienced sneeze?
+User: Yes
+Model: Have you experienced nasal congestion?
+User: Yes
+Model: Have you experienced Restlessness?
+User: Yes
+
+User: I have cough.
+Model: Have you experienced Vomit?
+User: Yes
+
+User: I have fever and runny nose and nasal congestion and sneeze and expectoration and cough.
+Model: Have you experienced Difficulty breathing?
+User: Yes
+Model: Have you experienced Restlessness?
+User: Yes
+
+User: I have cough and Pharynx Discomfort.
+Model: Have you experienced runny nose?
+User: Yes
+Model: Have you experienced expectoration?
+User: Yes
+Model: Have you experienced rub nose?
+User: Yes
+Model: Have you experienced Vomit?
+User: No
+Model: Have you experienced nasal congestion?
+User: Yes
+
+User: I have Diarrhea and anorexia and Stomach rumbling and green stool and Flatulence.
+Model: Have you experienced abdominal bloating?
+User: Yes
+Model: Have you experienced Restlessness?
+User: Yes
+
+User: I have cough and Vomit and runny nose and Restlessness and nasal congestion.
+Model: Have you experienced lethargy?
+User: No
+Model: Have you experienced Difficulty breathing?
+User: Yes
+Model: Have you experienced Drooling?
+User: Yes
+
+User: I have fever and cough and nasal congestion.
+Model: Have you experienced runny nose?
+User: Yes
+
+User: I have cough and expectoration and sneeze and runny nose.
+Model: Have you experienced fever?
+User: Yes
+Model: Have you experienced lethargy?
+User: Yes
+
+User: I have fever and Herpes and rash and Pharynx Discomfort.
+Model: Have you experienced sneeze?
+User: Yes
+Model: Have you experienced runny nose?
+User: Yes
+
+User: I have fever and cough and runny nose.
+
+User: I have cough and nasal congestion.
+Model: Have you experienced lethargy?
+User: No
+Model: Have you experienced allergy?
+User: Yes
+Model: Have you experienced rash?
+User: No
+
+User: I have fever and lethargy and Vomit.
+
+User: I have cough.
+Model: Have you experienced nasal congestion?
+User: Yes
+Model: Have you experienced Difficulty breathing?
+User: Yes
+
+User: I have fever and Herpes and rash.
+Model: Have you experienced anorexia?
+User: Yes
+
+User: I have anorexia and rash.
+Model: Have you experienced lethargy?
+User: No
+Model: Have you experienced Drooling?
+User: Yes
+
+User: I have cough and runny nose and Restlessness.
+Model: Have you experienced anorexia?
+User: Yes
+Model: Have you experienced Difficulty breathing?
+User: Yes
+
+User: I have fever and cough.
+Model: Have you experienced Rubbing eyes?
+User: Yes
+
+User: I have Herpes and rash.
+Model: Have you experienced fever?
+User: Yes
+
+User: I have fever and runny nose and Vomit and expectoration.
+Model: Have you experienced Difficulty breathing?
+User: Yes
+
+User: I have cough and nasal congestion and allergy and runny nose.
+Model: Have you experienced sneeze?
+User: Yes
+
+User: I have Pulmonary crackles and cough and runny nose.
+Model: Have you experienced fever?
+User: Yes
+
+User: I have fever and runny nose and Restlessness and Herpes and rash and Drooling.
+Model: Have you experienced nosebleed?
+User: Yes
+Model: Have you experienced Difficulty breathing?
+User: Yes
+
+User: I have fever.
+Model: Have you experienced anorexia?
+User: No
+Model: Have you experienced cough?
+User: Yes
+Model: Have you experienced expectoration?
+User: Yes
+Model: Have you experienced lung shadows?
+User: Yes
+
+User: I have sneeze and rub nose.
+Model: Have you experienced allergy?
+User: Yes
+Model: Have you experienced rash?
+User: Yes
+
+User: I have runny nose and nasal congestion.
+Model: Have you experienced cough?
+User: Yes
+Model: Have you experienced Rubbing eyes?
+User: Yes
+Model: Have you experienced Difficulty breathing?
+User: Yes
+
+User: I have runny nose and Rubbing eyes and Pharynx Discomfort.
+Model: Have you experienced allergy?
+User: Yes
+
+User: I have Diarrhea and weight loss.
+
+User: I have fever and Diarrhea and Vomit.
+Model: Have you experienced lethargy?
+User: Yes
+
+User: I have cough and expectoration.
+Model: Have you experienced runny nose?
+User: Yes
+Model: Have you experienced allergy?
+User: Yes
+
+User: I have cough and expectoration.
+
+User: I have cough and expectoration.
+Model: Have you experienced nasal congestion?
+User: Yes
+Model: Have you experienced Pharynx Discomfort?
+User: Yes
+
+User: I have fever and Diarrhea and Rubbing eyes.
+
+User: I have fever and Herpes.
+Model: Have you experienced rash?
+User: Yes
+
+User: I have nasal congestion and Restlessness and expectoration.
+Model: Have you experienced anorexia?
+User: Yes
+Model: Have you experienced lethargy?
+User: No
+Model: Have you experienced Vomit?
+User: Yes
+Model: Have you experienced mouth bubblings?
+User: Yes
+
+User: I have anorexia and cough and runny nose and Restlessness.
+Model: Have you experienced fever?
+User: Yes
+
+User: I have fever and stomach ache and Herpes and rash and Drooling.
+
+User: I have fever and cough and Vomit and runny nose.
+Model: Have you experienced Diarrhea?
+User: Yes
+Model: Have you experienced Pharynx Discomfort?
+User: Yes
+
+User: I have anorexia and nausea and lethargy and Vomit.
+Model: Have you experienced Diarrhea?
+User: Yes
+
+User: I have nasal congestion.
+Model: Have you experienced lethargy?
+User: No
+Model: Have you experienced rash?
+User: Yes
+
+User: I have cough and runny nose.
+Model: Have you experienced rub nose?
+User: Yes
+
+User: I have cough and expectoration.
+Model: Have you experienced fever?
+User: No
+Model: Have you experienced mouth bubblings?
+User: Yes
+Model: Have you experienced runny nose?
+User: No
+
+User: I have fever and runny nose.
+Model: Have you experienced Diarrhea?
+User: Yes
+Model: Have you experienced Vomit?
+User: No
+Model: Have you experienced Pharynx Discomfort?
+User: Yes
+Model: Have you experienced anorexia?
+User: Yes
+Model: Have you experienced cough?
+User: No
+Model: Have you experienced rash?
+User: Yes
+
+User: I have cough.
+Model: Have you experienced nasal congestion?
+User: No
+Model: Have you experienced rub nose?
+User: Yes
+
+User: I have cough and runny nose.
+Model: Have you experienced anorexia?
+User: No
+Model: Have you experienced Night sweats?
+User: Yes
+
+User: I have Herpes and rash.
+Model: Have you experienced fever?
+User: No
+Model: Have you experienced lethargy?
+User: No
+Model: Have you experienced Vomit?
+User: No
+
+User: I have Diarrhea and Night sweats.
+Model: Have you experienced fever?
+User: No
+Model: Have you experienced lethargy?
+User: Yes
+Model: Have you experienced Restlessness?
+User: Yes
+
+User: I have fever and cough.
+Model: Have you experienced Difficulty breathing?
+User: Yes
+Model: Have you experienced Pharynx Discomfort?
+User: Yes
+
+User: I have cough and runny nose.
+Model: Have you experienced fever?
+User: No
+Model: Have you experienced lethargy?
+User: No
+Model: Have you experienced expectoration?
+User: No
+
+User: I have fever and nausea and Vomit.
+Model: Have you experienced anorexia?
+User: No
+Model: Have you experienced lethargy?
+User: No
+
+User: I have fever and lethargy and cough and runny nose.
+Model: Have you experienced Rubbing eyes?
+User: Yes
+Model: Have you experienced Restlessness?
+User: Yes
+
+User: I have Diarrhea and nausea and Vomit and anorexia and Restlessness.
+
+User: I have fever and Convulsions and Herpes and Restlessness.
+Model: Have you experienced anorexia?
+User: Yes
+
+User: I have fever and Diarrhea and lethargy and Stomach rumbling.
+
+User: I have cough and Pharynx Discomfort.
+Model: Have you experienced Pulmonary crackles?
+User: Yes
+
+User: I have sneeze and nasal congestion.
+Model: Have you experienced rub nose?
+User: Yes
+Model: Have you experienced Difficulty breathing?
+User: Yes
+
+User: I have fever and cough and Vomit and runny nose.
+
+User: I have sneeze and nasal congestion and rub nose and Restlessness.
+Model: Have you experienced Rubbing eyes?
+User: Yes
+Model: Have you experienced rash?
+User: Yes
+Model: Have you experienced nosebleed?
+User: Yes
+
+User: I have runny nose.
+Model: Have you experienced fever?
+User: No
+Model: Have you experienced cough?
+User: No
+Model: Have you experienced sneeze?
+User: Yes
+
+User: I have fever and Herpes.
+Model: Have you experienced lethargy?
+User: No
+Model: Have you experienced rash?
+User: Yes
+
+User: I have fever and anorexia.
+Model: Have you experienced Pulmonary crackles?
+User: Yes
+
+User: I have fever and cough and Vomit.
+Model: Have you experienced Difficulty breathing?
+User: Yes
+
+User: I have wheezing and cough and expectoration.
+Model: Have you experienced Pharynx Discomfort?
+User: Yes
+
+User: I have cough and expectoration and runny nose and Restlessness.
+Model: Have you experienced lethargy?
+User: No
+Model: Have you experienced Difficulty breathing?
+User: Yes
+
+User: I have cough and expectoration and runny nose.
+Model: Have you experienced Pharynx Discomfort?
+User: Yes
+
+User: I have cough and Difficulty breathing.
+Model: Have you experienced fever?
+User: No
+Model: Have you experienced Vomit?
+User: Yes
+
+User: I have cough and nasal congestion and sneeze and runny nose.
+Model: Have you experienced fever?
+User: No
+Model: Have you experienced expectoration?
+User: No
+
+User: I have cough and nasal congestion and runny nose and expectoration.
+Model: Have you experienced Restlessness?
+User: Yes
+
+User: I have fever and rash.
+Model: Have you experienced anorexia?
+User: No
+Model: Have you experienced lethargy?
+User: No
+
+User: I have cough and mouth bubblings.
+Model: Have you experienced Diarrhea?
+User: No
+Model: Have you experienced Restlessness?
+User: Yes
+
+User: I have fever and cough and expectoration and runny nose.
+Model: Have you experienced Restlessness?
+User: Yes
+

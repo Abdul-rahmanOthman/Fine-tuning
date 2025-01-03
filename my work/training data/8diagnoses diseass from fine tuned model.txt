@@ -1,0 +1,157 @@
+Have you been Rubbing Eyes?
+true_disease: Pediatric Diarrhea
+Have you been fever?
+true_disease: allergic rhinitis
+Have you experienced Restlessness?
+true_disease: pneumonia
+true_disease: Pediatric Diarrhea
+true_disease: upper respiratory tract infection
+true_disease: pneumonia
+true_disease: allergic rhinitis
+true_disease: pneumonia
+Have you been anorexia?
+true_disease: upper respiratory tract infection
+true_disease: allergic rhinitis
+Have you been runny nose?
+true_disease: pneumonia
+Have you been anorexia?
+true_disease: pneumonia
+true_disease: Pediatric Diarrhea
+Have you been Restlessness?
+true_disease: Pediatric Diarrhea
+Have you experienced Vomit?
+true_disease: upper respiratory tract infection
+Have you been lethargy?
+true_disease: Children hand-foot-mouth disease
+true_disease: pneumonia
+true_disease: pneumonia
+Have you been expectoration?
+true_disease: Children hand-foot-mouth disease
+true_disease: Children hand-foot-mouth disease
+true_disease: Pediatric Diarrhea
+true_disease: pneumonia
+true_disease: allergic rhinitis
+Have you been Difficulty breathing?
+true_disease: pneumonia
+Have you been nasal congestion?
+true_disease: upper respiratory tract infection
+true_disease: allergic rhinitis
+true_disease: Children hand-foot-mouth disease
+true_disease: upper respiratory tract infection
+Have you been Vomit?
+true_disease: allergic rhinitis
+true_disease: pneumonia
+true_disease: Pediatric Diarrhea
+true_disease: upper respiratory tract infection
+true_disease: allergic rhinitis
+true_disease: hand-foot-mouth disease
+true_disease: Pediatric Diarrhea
+Have you been Pulmonary crackles?
+true_disease: allergic rhinitis
+Have you been lethargy?
+true_disease: Pediatric Diarrhea
+true_disease: Pediatric Diarrhea
+true_disease: Children hand-foot-mouth disease
+true_disease: Children hand-foot-mouth disease
+true_disease: Pediatric Diarrhea
+true_disease: allergic rhinitis
+Have you been high fever?
+true_disease: Children hand-foot-mouth disease
+Have you been Thirsty?
+true_disease: Pediatric Diarrhea
+Have you been anorexia?
+true_disease: Pediatric Diarrhea
+true_disease: upper respiratory tract infection
+Have you been runny nose?
+true_disease: Pediatric Diarrhea
+true_disease: upper respiratory tract infection
+true_disease: allergic rhinitis
+true_disease: upper respiratory tract infection
+Have you been lethargy?
+true_disease: pneumonia
+true_disease: Children hand-foot-mouth disease
+true_disease: upper respiratory tract infection
+true_disease: pneumonia
+true_disease: Pediatric Hand-foot-mouth disease
+true_disease: Children hand-foot-mouth disease
+true_disease: allergic rhinitis
+true_disease: pneumonia
+true_disease: Pediatric Diarrhea
+true_disease: pneumonia
+true_disease: upper respiratory tract infection
+Have you been Blood-stained stools?
+Have you been Foul stool?
+true_disease: upper respiratory tract infection
+Have you been rash?
+true_disease: Pediatric Diarrhea
+true_disease: upper respiratory tract infection
+true_disease: pneumonia
+Have you expectoration?
+true_disease: pneumonia
+true_disease: allergic rhinitis
+true_disease: Pediatric Diarrhea
+true_disease: Pneumonia
+true_disease: upper respiratory tract infection
+true_disease: upper respiratory tract infection
+true_disease: Children hand-foot-mouth disease
+Have you been vomit?
+true_disease: allergic rhinitis
+Have you been anorexia?
+true_disease: pneumonia
+true_disease: Children hand-foot-mouth disease
+true_disease: Children hand-foot-mouth disease
+true_disease: upper respiratory tract infection
+true_disease: upper respiratory tract infection
+true_disease: Children hand-foot-mouth disease
+true_disease: pneumonia
+true_disease: allergic rhinitis
+true_disease: pneumonia
+true_disease: allergic rhinitis
+true_disease: pneumonia
+true_disease: allergic rhinitis
+true_disease: allergic rhinitis
+true_disease: allergic rhinitis
+true_disease: Pediatric Diarrhea
+true_disease: Pediatric Diarrhea
+true_disease: allergic rhinitis
+Have you been throat discomfort?
+true_disease: upper respiratory tract infection
+Have you been anorexia?
+true_disease: Children hand-foot-mouth disease
+true_disease: pneumonia
+true_disease: upper respiratory tract infection
+true_disease: Children hand-foot-mouth disease
+true_disease: upper respiratory tract infection
+true_disease: Pediatric Diarrhea
+true_disease: allergic rhinitis
+true_disease: allergic rhinitis
+true_disease: upper respiratory tract infection
+true_disease: hand-foot-mouth disease
+true_disease: nasal allergy
+true_disease: upper respiratory tract infection
+true_disease: Children hand-foot-mouth disease
+true_disease: Pediatric Diarrhea
+true disease: upper respiratory tract infection
+true_disease: upper respiratory tract infection
+Have you experienced liver area pain?
+true_disease: allergic rhinitis
+true_disease: Pediatric Diarrhea
+true_disease: Children hand-foot-mouth disease
+true_disease: Pediatric Diarrhea
+true_disease: pneumonia
+true_disease: allergic rhinitis
+Have you been lung shadows?
+true_disease: allergic rhinitis
+true_disease: upper respiratory tract infection
+true_disease: Children hand-foot-mouth disease
+true_disease: pneumonia
+Have you Been lethargy?
+Have you been Difficulty breathing?
+true_disease: pneumonia
+true_disease:upper respiratory tract infection
+true_disease: Pneumonia
+true_disease: upper respiratory tract infection
+Have you been Oliguria?
+Have you experienced cough?
+true_disease: pneumonia
+Have you been expectoration?
